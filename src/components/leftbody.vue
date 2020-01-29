@@ -3,7 +3,7 @@
     <div class="left">
       <span
         class="text"
-      >Facebook hjælper dig med at dele og holde kontakten med personerne i dit liv.</span>
+      >Facebook helps you connect people around the world.</span>
       <img
         class="socialimg"
         src="https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/mdFUMX-w0Fu.png"
