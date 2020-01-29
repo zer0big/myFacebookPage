@@ -1,8 +1,8 @@
 <template>
   <div class="right">
-    <span class="Opretprofil">Open Profile</span>
+    <span class="Opretprofil">Open quick profile</span>
     <br />
-    <span class="asap">It works.</span>
+    <span class="asap">It works quickly.</span>
 
     <input class="details" type="text" placeholder=" Firstname" style="width: 180px;" />
     <input class="details" type="text" placeholder=" Lastname" style="width: 180px;" />
@@ -11,7 +11,7 @@
     <br />
     <input class="details" type="password" placeholder=" New password" style="width: 377px;" />
 
-    <div class="dob">Fødselsdag</div>
+    <div class="dob">Date of Birth</div>
     <a href title="click for details">
       <i class="imgQ"></i>
     </a>
