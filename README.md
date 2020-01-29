@@ -1,6 +1,5 @@
 # facebook
-# updated from website on readme file on 29/1/2020
-
+# deleted line 2.
 ## Project setup
 ```
 npm install
