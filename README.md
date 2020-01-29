@@ -1,7 +1,5 @@
 # facebook
-# deleted line 2.
-## Project setup
-```
+
 npm install
 ```
 
