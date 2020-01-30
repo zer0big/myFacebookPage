@@ -1,6 +1,6 @@
 <template>
   <div class="right">
-    <span class="Opretprofil">Open quick profile</span>
+    <span class="Opretprofil">Profile requirements needed</span>
     <br />
     <span class="asap">It works quickly.</span>
 
