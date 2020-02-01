@@ -1,6 +1,6 @@
 <template>
   <div class="right">
-    <span class="Opretprofil">Complete you profile</span>
+    <span class="Opretprofil">Please Complete your profile</span>
     <br />
     <span class="asap">It works quickly.</span>
 
